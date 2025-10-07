@@ -26,3 +26,6 @@ You need to add your Discord webhook URL there. Everything else works out of the
 - A Discord webhook if you want notifications
 
 That's it. Pretty simple.
+
+(i also used an other mod to help me do this forgot the name tho) 
+(also thanks zlothy) 
